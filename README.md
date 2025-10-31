@@ -52,8 +52,8 @@ These programs cover fundamental Python topics like loops, conditionals, strings
   <tr><td>23</td><td><a href="ordinalvalue.py">ordinalvalue.py</a></td><td>Displays ordinal values of characters.</td></tr>
   <tr><td>24</td><td><a href="numofdigits.py">numofdigits.py</a></td><td>Counts number of digits in a number.</td></tr>
   <tr><td>25</td><td><a href="listofcolors.py">listofcolors.py</a></td><td>Demonstrates list operations using colors.</td></tr>
-  <tr><td>26</td><td><a href="i21ngly.py">i21ngly.py</a></td><td>Checks if a number or string is a palindrome.</td></tr>
-  <tr><td>27</td><td><a href="17-emovingalleven.py">17-emovingalleven.py</a></td><td>Removes even numbers from a list.</td></tr>
+  <tr><td>26</td><td><a href="i21ngly.py">i21ngly.py</a></td><td>add ly and ing on strings if conditions are met.</td></tr>
+  <tr><td>27</td><td><a href="17-emovingalleven.py">17-Removingalleven.py</a></td><td>Removes even numbers from a list.</td></tr>
 </table>
 
 </div>
