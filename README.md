@@ -69,6 +69,14 @@ These programs cover fundamental Python topics like loops, conditionals, strings
 - 🔁 Conditionals and Functions  
 
 ---
+<div align="center">
+💻 Created with ❤️ by Rashhiye
+<br>
+<sub>© 2025 MCA Python Programs | Kerala Technical University</sub>
+
+</div> ```
+
+
 
 ## ⚙️ How to Run
 
@@ -81,9 +89,4 @@ cd mca-python-programs
 
 # Run any program
 python3 filename.py
-<div align="center">
-💻 Created with ❤️ by Rashhiye
-<br>
-<sub>© 2025 MCA Python Programs | Kerala Technical University</sub>
-
-</div> ```
+###
