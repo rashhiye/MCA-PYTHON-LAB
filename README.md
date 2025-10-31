@@ -4,7 +4,7 @@
 <h3>Kerala Technical University (KTU)</h3>
 
 <p>
-<b>Prepared by:</b> <span style="color:#007acc;">Rashhiye</span> <br>
+<b>Prepared by:</b> <span style="color:#007acc;">RMUHAMMED RASHID KP</span> <br>
 🎓 MCA Student | Kerala Technical University  
 </p>
 
