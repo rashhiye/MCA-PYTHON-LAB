@@ -1,207 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MCA Python Programs – Kerala Technical University (KTU)</title>
+<div align="center">
 
-  <style>
-    /* ----------- Global Styles ----------- */
-    :root {
-      --primary-color: #004d99;
-      --secondary-color: #007acc;
-      --bg-light: #f4f7fb;
-      --bg-white: #fff;
-      --text-dark: #222;
-      --text-muted: #666;
-      --border-color: #e0e6ef;
-      --shadow-light: rgba(0, 0, 0, 0.08);
-      --shadow-medium: rgba(0, 0, 0, 0.15);
-    }
+<h1 style="color:#004d99;">🐍 MCA Python Programs</h1>
+<h3>Kerala Technical University (KTU)</h3>
 
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<p>
+<b>Prepared by:</b> <span style="color:#007acc;">Rashhiye</span> <br>
+🎓 MCA Student | Kerala Technical University  
+</p>
 
-    body {
-      font-family: "Segoe UI", Roboto, Arial, sans-serif;
-      background: var(--bg-light);
-      color: var(--text-dark);
-      line-height: 1.6;
-    }
+<hr style="border: 1px solid #004d99; width:80%;">
 
-    /* ----------- Header ----------- */
-    header {
-      background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-      color: white;
-      text-align: center;
-      padding: 2rem 1rem;
-      box-shadow: 0 2px 8px var(--shadow-medium);
-    }
+</div>
 
-    header h1 {
-      font-size: 2rem;
-      letter-spacing: 0.5px;
-    }
+## 🧾 Overview
 
-    header p {
-      font-size: 1.1rem;
-      opacity: 0.9;
-      margin-top: 0.3rem;
-    }
+Welcome to the **MCA Python Programs Repository** – a collection of Python programs written according to the **KTU MCA Syllabus**.  
+These programs cover fundamental Python topics like loops, conditionals, strings, lists, and dictionaries.
 
-    /* ----------- Main Section ----------- */
-    main {
-      max-width: 1000px;
-      margin: 2rem auto;
-      background: var(--bg-white);
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px var(--shadow-light);
-    }
+---
 
-    h2 {
-      color: var(--primary-color);
-      font-size: 1.6rem;
-      margin-bottom: 1rem;
-      text-align: center;
-      border-bottom: 2px solid var(--border-color);
-      padding-bottom: 0.5rem;
-    }
+<div align="center">
 
-    /* ----------- Table Styling ----------- */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
-      overflow: hidden;
-      border-radius: 10px;
-    }
+<table style="border-collapse: collapse; width: 95%; border: 1px solid #ccc;">
+  <tr style="background-color:#004d99; color:white;">
+    <th style="padding:10px;">No.</th>
+    <th style="padding:10px;">File Name</th>
+    <th style="padding:10px;">Description</th>
+  </tr>
+  <tr><td>1</td><td><a href="hello_world.py">hello_world.py</a></td><td>Prints "Hello, World!" – the simplest Python program.</td></tr>
+  <tr><td>2</td><td><a href="arithmetic.py">arithmetic.py</a></td><td>Performs basic arithmetic operations.</td></tr>
+  <tr><td>3</td><td><a href="circle.py">circle.py</a></td><td>Calculates area and circumference of a circle.</td></tr>
+  <tr><td>4</td><td><a href="factorial.py">factorial.py</a></td><td>Finds factorial of a number using loops.</td></tr>
+  <tr><td>5</td><td><a href="fibonacci.py">fibonacci.py</a></td><td>Displays Fibonacci series up to N terms.</td></tr>
+  <tr><td>6</td><td><a href="largest-of-3.py">largest-of-3.py</a></td><td>Finds largest among three numbers.</td></tr>
+  <tr><td>7</td><td><a href="leap-year.py">leap-year.py</a></td><td>Checks whether a year is leap year.</td></tr>
+  <tr><td>8</td><td><a href="gcd.py">gcd.py</a></td><td>Finds GCD (Greatest Common Divisor) of two numbers.</td></tr>
+  <tr><td>9</td><td><a href="quadratic.py">quadratic.py</a></td><td>Solves quadratic equation using discriminant method.</td></tr>
+  <tr><td>10</td><td><a href="sum.py">sum.py</a></td><td>Calculates sum of two numbers.</td></tr>
+  <tr><td>11</td><td><a href="sumoffirst100even.py">sumoffirst100even.py</a></td><td>Finds sum of first 100 even numbers.</td></tr>
+  <tr><td>12</td><td><a href="squareofN.py">squareofN.py</a></td><td>Prints squares of first N natural numbers.</td></tr>
+  <tr><td>13</td><td><a href="firstnmult.py">firstnmult.py</a></td><td>Displays first N multiples of a number.</td></tr>
+  <tr><td>14</td><td><a href="swap.py">swap.py</a></td><td>Swaps two numbers using a temporary variable.</td></tr>
+  <tr><td>15</td><td><a href="swaping2strings.py">swaping2strings.py</a></td><td>Swaps two strings without using a third variable.</td></tr>
+  <tr><td>16</td><td><a href="exchange-char-in-string.py">exchange-char-in-string.py</a></td><td>Exchanges first and last characters in a string.</td></tr>
+  <tr><td>17</td><td><a href="vowellist.py">vowellist.py</a></td><td>Prints vowels present in a given string.</td></tr>
+  <tr><td>18</td><td><a href="list.py">list.py</a></td><td>Demonstrates basic list operations.</td></tr>
+  <tr><td>19</td><td><a href="positivelist.py">positivelist.py</a></td><td>Displays only positive numbers from a list.</td></tr>
+  <tr><td>20</td><td><a href="sortdisc.py">sortdisc.py</a></td><td>Sorts list in descending order.</td></tr>
+  <tr><td>21</td><td><a href="megedict.py">megedict.py</a></td><td>Merges two dictionaries into one.</td></tr>
+  <tr><td>22</td><td><a href="occurance.py">occurance.py</a></td><td>Counts occurrences of words in a string.</td></tr>
+  <tr><td>23</td><td><a href="ordinalvalue.py">ordinalvalue.py</a></td><td>Displays ordinal values of characters.</td></tr>
+  <tr><td>24</td><td><a href="numofdigits.py">numofdigits.py</a></td><td>Counts number of digits in a number.</td></tr>
+  <tr><td>25</td><td><a href="listofcolors.py">listofcolors.py</a></td><td>Demonstrates list operations using colors.</td></tr>
+  <tr><td>26</td><td><a href="i21ngly.py">i21ngly.py</a></td><td>Checks if a number or string is a palindrome.</td></tr>
+  <tr><td>27</td><td><a href="17-emovingalleven.py">17-emovingalleven.py</a></td><td>Removes even numbers from a list.</td></tr>
+</table>
 
-    th, td {
-      padding: 12px 15px;
-      text-align: left;
-    }
+</div>
 
-    th {
-      background: var(--primary-color);
-      color: white;
-      font-weight: 600;
-      text-transform: uppercase;
-      font-size: 0.9rem;
-      letter-spacing: 0.5px;
-    }
+---
 
-    tr {
-      border-bottom: 1px solid var(--border-color);
-      transition: background 0.2s ease;
-    }
+## 🧠 Topics Covered
 
-    tr:nth-child(even) {
-      background-color: #f9fbfe;
-    }
+- 🌀 Basic Input & Output  
+- 🧮 Arithmetic and Loops  
+- 🔤 String Manipulation  
+- 📋 Lists and Dictionaries  
+- 🔁 Conditionals and Functions  
 
-    tr:hover {
-      background: #e8f2ff;
-    }
+---
 
-    a {
-      color: var(--secondary-color);
-      text-decoration: none;
-      font-weight: 500;
-      transition: color 0.2s ease;
-    }
+## ⚙️ How to Run
 
-    a:hover {
-      color: var(--primary-color);
-      text-decoration: underline;
-    }
+```bash
+# Clone this repository
+git clone https://github.com/<your-username>/mca-python-programs.git
 
-    /* ----------- Footer ----------- */
-    footer {
-      text-align: center;
-      color: var(--text-muted);
-      font-size: 0.95rem;
-      padding: 1.5rem;
-      margin-top: 2rem;
-    }
+# Navigate to the project folder
+cd mca-python-programs
 
-    footer a {
-      color: var(--secondary-color);
-      text-decoration: none;
-    }
+# Run any program
+python3 filename.py
+<div align="center">
+💻 Created with ❤️ by Rashhiye
+<br>
+<sub>© 2025 MCA Python Programs | Kerala Technical University</sub>
 
-    footer a:hover {
-      text-decoration: underline;
-    }
-
-    /* ----------- Responsive Design ----------- */
-    @media (max-width: 700px) {
-      main {
-        padding: 1.2rem;
-      }
-
-      th, td {
-        padding: 10px;
-        font-size: 0.95rem;
-      }
-
-      header h1 {
-        font-size: 1.6rem;
-      }
-    }
-  </style>
-</head>
-
-<body>
-  <header>
-    <h1>MCA Python Programs – Kerala Technical University (KTU)</h1>
-    <p>Prepared by <strong>Rashhiye</strong></p>
-  </header>
-
-  <main>
-    <h2>Python Program List</h2>
-
-    <table>
-      <tr>
-        <th>File Name</th>
-        <th>Description</th>
-      </tr>
-
-      <tr><td><a href="hello_world.py">hello_world.py</a></td><td>Displays “Hello, World!” – introductory Python program.</td></tr>
-      <tr><td><a href="arithmetic.py">arithmetic.py</a></td><td>Performs addition, subtraction, multiplication, and division.</td></tr>
-      <tr><td><a href="circle.py">circle.py</a></td><td>Computes area and circumference of a circle from its radius.</td></tr>
-      <tr><td><a href="factorial.py">factorial.py</a></td><td>Finds factorial of a number using loops.</td></tr>
-      <tr><td><a href="fibonacci.py">fibonacci.py</a></td><td>Prints Fibonacci sequence up to given limit.</td></tr>
-      <tr><td><a href="largest-of-3.py">largest-of-3.py</a></td><td>Finds largest among three numbers.</td></tr>
-      <tr><td><a href="leap-year.py">leap-year.py</a></td><td>Checks if a year is a leap year.</td></tr>
-      <tr><td><a href="gcd.py">gcd.py</a></td><td>Finds GCD (greatest common divisor) of two numbers.</td></tr>
-      <tr><td><a href="quadratic.py">quadratic.py</a></td><td>Solves quadratic equations using the discriminant method.</td></tr>
-      <tr><td><a href="sum.py">sum.py</a></td><td>Calculates the sum of two user-input numbers.</td></tr>
-      <tr><td><a href="sumoffirst100even.py">sumoffirst100even.py</a></td><td>Finds sum of first 100 even numbers.</td></tr>
-      <tr><td><a href="squareofN.py">squareofN.py</a></td><td>Displays squares of the first N numbers.</td></tr>
-      <tr><td><a href="firstnmult.py">firstnmult.py</a></td><td>Shows first N multiples of a number.</td></tr>
-      <tr><td><a href="swap.py">swap.py</a></td><td>Swaps two numbers using a temporary variable.</td></tr>
-      <tr><td><a href="swaping2strings.py">swaping2strings.py</a></td><td>Swaps two strings without using a third variable.</td></tr>
-      <tr><td><a href="exchange-char-in-string.py">exchange-char-in-string.py</a></td><td>Exchanges first and last characters of a string.</td></tr>
-      <tr><td><a href="vowellist.py">vowellist.py</a></td><td>Prints all vowels present in a string.</td></tr>
-      <tr><td><a href="list.py">list.py</a></td><td>Demonstrates basic list operations in Python.</td></tr>
-      <tr><td><a href="positivelist.py">positivelist.py</a></td><td>Displays only positive numbers from a given list.</td></tr>
-      <tr><td><a href="sortdisc.py">sortdisc.py</a></td><td>Sorts elements of a list in descending order.</td></tr>
-      <tr><td><a href="megedict.py">megedict.py</a></td><td>Merges two dictionaries into one.</td></tr>
-      <tr><td><a href="occurance.py">occurance.py</a></td><td>Counts word occurrences in a string.</td></tr>
-      <tr><td><a href="ordinalvalue.py">ordinalvalue.py</a></td><td>Displays ordinal (ASCII) values of characters.</td></tr>
-      <tr><td><a href="numofdigits.py">numofdigits.py</a></td><td>Counts digits in a number.</td></tr>
-      <tr><td><a href="listofcolors.py">listofcolors.py</a></td><td>Demonstrates list operations with colors.</td></tr>
-      <tr><td><a href="i21ngly.py">i21ngly.py</a></td><td>Checks if a number/string is palindrome.</td></tr>
-      <tr><td><a href="17-emovingalleven.py">17-emovingalleven.py</a></td><td>Removes even numbers from a given list.</td></tr>
-    </table>
-  </main>
-
-  <footer>
-    <p>© 2025 <strong>Rashhiye</strong> | MCA Python Programs | <a href="#">Kerala Technical University</a></p>
-  </footer>
-</body>
-</html>
+</div> ```
