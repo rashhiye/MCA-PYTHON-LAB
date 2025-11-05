@@ -9,7 +9,7 @@ def occ():
         for item2 in x:
             if item==item2:
                 i=i+1
-        dic[item]=1
+        dic[item]=i
     print("The number of occurance ")
     for item in dic:
         print("Item : %s,appreared %d time"%(item,dic[item]))
