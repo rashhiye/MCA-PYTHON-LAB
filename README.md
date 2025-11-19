@@ -52,21 +52,102 @@ These programs cover fundamental Python topics like loops, conditionals, strings
   <tr><td>23</td><td><a href="ordinalvalue.py">ordinalvalue.py</a></td><td>Displays ordinal values of characters.</td></tr>
   <tr><td>24</td><td><a href="numofdigits.py">numofdigits.py</a></td><td>Counts number of digits in a number.</td></tr>
   <tr><td>25</td><td><a href="listofcolors.py">listofcolors.py</a></td><td>Demonstrates list operations using colors.</td></tr>
-  <tr><td>26</td><td><a href="i21ngly.py">i21ngly.py</a></td><td>add ly and ing on strings if conditions are met.</td></tr>
-  <tr><td>27</td><td><a href="17-emovingalleven.py">17-Removingalleven.py</a></td><td>Removes even numbers from a list.</td></tr>
+  <tr><td>26</td><td><a href="i21ngly.py">i21ngly.py</a></td><td>Adds 'ly' or 'ing' to words based on rules.</td></tr>
+  <tr><td>27</td><td><a href="17-emovingalleven.py">17-emovingalleven.py</a></td><td>Removes even numbers from a list.</td></tr>
+
+  <!-- Newly Added Based on Remaining Files -->
+  <tr><td>28</td><td><a href="charfrequency.py">charfrequency.py</a></td><td>Counts frequency of each character in a string.</td></tr>
+  <tr><td>29</td><td><a href="pattern.py">pattern.py</a></td><td>Prints various star/number patterns.</td></tr>
+  <tr><td>30</td><td><a href="bankacc.py">bankacc.py</a></td><td>Implements a BankAccount class with deposit, withdraw, and balance operations.</td></tr>
+  <tr><td>31</td><td><a href="copyoddlinefile.py">copyoddlinefile.py</a></td><td>Copies only odd-numbered lines from one file to another.</td></tr>
+  <tr><td>32</td><td><a href="dictcsv.py">dictcsv.py</a></td><td>Writes a dictionary to CSV and reads it back.</td></tr>
+  <tr><td>33</td><td><a href="readcolcsv.py">readcolcsv.py</a></td><td>Reads a specific column from a CSV file.</td></tr>
+  <tr><td>34</td><td><a href="readcsv.py">readcsv.py</a></td><td>Reads and prints the content of a CSV file.</td></tr>
+  <tr><td>35</td><td><a href="writetofile.py">writetofile.py</a></td><td>Reads from and writes data to a file.</td></tr>
+  <tr><td>36</td><td><a href="time.py">time.py</a></td><td>Implements time operations using operator overloading.</td></tr>
+  <tr><td>37</td><td><a href="README.md">README.md</a></td><td>Project documentation and author details.</td></tr>
+
 </table>
 
 </div>
 
 ---
 
-## 🧠 Topics Covered
+<div align="center">
 
-- 🌀 Basic Input & Output  
-- 🧮 Arithmetic and Loops  
-- 🔤 String Manipulation  
-- 📋 Lists and Dictionaries  
-- 🔁 Conditionals and Functions  
+<table style="border-collapse: collapse; width: 95%; border: 1px solid #ccc;">
+
+  <!-- Central heading row -->
+  <tr style="background-color:#002e5c; color:white;">
+    <th colspan="2" style="padding:15px; font-size:20px; text-align:center;">
+      🧠 Topics Covered
+    </th>
+  </tr>
+
+  <!-- Column headers -->
+  <tr style="background-color:#004d99; color:white;">
+    <th style="padding:10px;">Topic</th>
+    <th style="padding:10px;">Description</th>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌀 Basic Input & Output</td>
+    <td style="padding:10px;">Simple input/output programs and printing operations.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🧮 Arithmetic and Loops</td>
+    <td style="padding:10px;">Basic math operations, loops, and iterative logic.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🔤 String Manipulation</td>
+    <td style="padding:10px;">Character operations, swapping, modifying, and analyzing strings.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">📋 Lists and Dictionaries</td>
+    <td style="padding:10px;">List processing, merging dictionaries, filtering, sorting, etc.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🔁 Conditionals and Functions</td>
+    <td style="padding:10px;">Decision-making and reusable function-based programs.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🧱 Pattern Printing</td>
+    <td style="padding:10px;">Star and numeric pattern generation.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🗂️ File Handling</td>
+    <td style="padding:10px;">File reading, writing, and copying odd-numbered lines.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">📊 CSV Operations</td>
+    <td style="padding:10px;">Reading CSV files, reading specific columns, and writing dictionaries to CSV.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🏦 Object-Oriented Programming</td>
+    <td style="padding:10px;">BankAccount class and the basics of OOP.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">⏱️ Operator Overloading</td>
+    <td style="padding:10px;">Time class implementing operator overloading.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🔢 Number System & Math Operations</td>
+    <td style="padding:10px;">GCD, factorial, Fibonacci, squares, quadratic equations, ordinal values, etc.</td>
+  </tr>
+
+</table>
+
+</div>
 
 ---
 <div align="center">
