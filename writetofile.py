@@ -1,0 +1,5 @@
+abc=open('file1.txt','r+')
+abc.write("HELLO RASHHIYE")
+abc.seek(0)
+print(abc.read())
+abc.close()
