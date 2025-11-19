@@ -163,7 +163,7 @@ These programs cover fundamental Python topics like loops, conditionals, strings
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/mca-python-programs.git
+git clone https://github.com/rashhiye/mca-python-programs.git
 
 # Navigate to the project folder
 cd mca-python-programs
